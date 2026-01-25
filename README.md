@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-IDC Pizza is looking to understand **pizza sales performance**, **category demand**, and **pricing behaviour** using raw transactional data. This project analyses **orders**, **pizza categories**, **sizes**, and **revenue contribution** using SQL queries aligned with beginner-to-intermediate concepts. The goal was to build strong foundations in **filtering**, **aggregations**, **joins**, and **data cleaning** through a structured challenge format. Although the dataset is small, it helps in building practical SQL confidence. If a bigger dataset was available, I would have extended this analysis into **customer behaviour**, **repeat ordering patterns**, **store-level performance**, and **profitability insights** to solve deeper business problems.
+This project is part of the **21-Day SQL Challenge** organised by **Indian Data Club** and sponsored by **DPD Zero**. As the data analyst for **IDC Pizza**, I analysed pizza sales data to extract actionable insights using SQL. The project focuses on building strong foundations in **filtering**, **aggregations**, **joins**, and **data cleaning** through real business questions. I explored **category performance**, **pricing by size**, and **order value trends** to understand sales behaviour. Although the dataset is small, it is ideal for strengthening SQL thinking. With a larger dataset, I would extend this into **customer segmentation**, **repeat ordering**, and **profitability analysis**.
+
+[21-Day SQL Challenge](https://indiandataclubsql.notion.site/The-Great-Pizza-Analytics-Challenge-296b804566108124a928f767a2951381)
 
 [Presentation Link](https://www.linkedin.com/posts/apoorvaiyerkcl_%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8F%F0%9D%90%A2%F0%9D%90%B3%F0%9D%90%B3%F0%9D%90%9A-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%B2%F0%9D%90%AD-activity-7404013346909421568-f7wt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBJCkIBhzi-lCIscl0rmj3ASTU9yUcwIOc)
 
