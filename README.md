@@ -38,7 +38,7 @@ This project uses a relational pizza sales dataset consisting of **4 tables**, c
 2. **Pricing distribution** shows premium pizzas and helps understand how **size impacts pricing**.
 3. **Total order value per order** can be calculated using **quantity and price**, supporting revenue analysis.
 4. Some pizzas can be identified as **never ordered**, which indicates low demand and supports **menu optimisation** decisions.
-5. Basic checks using **NULL handling**, **COALESCE**, and **DISTINCT** improve data reliability for reporting.
+5. Data Cleaning checks using **NULL handling**, **COALESCE**, and **DISTINCT** to improve data reliability for reporting.
 
 
 ## Next Steps
