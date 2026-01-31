@@ -1,4 +1,4 @@
-# IDC Pizza - The Great Pizza Analytics Challenge (SQL Project)
+# IDC Pizza - The Great Pizza Analytics Challenge
 
 ## Executive Summary
 
