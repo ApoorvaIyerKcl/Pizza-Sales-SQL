@@ -20,7 +20,7 @@ IDC Pizza needs better visibility into:
 
 The absence of consolidated insights makes it difficult for business teams to make **data-backed decisions** related to **menu strategy**, **pricing**, and **sales growth**.
 
-## Table For Dataset Used
+## Dataset Used
 
 This project uses a relational pizza sales dataset consisting of **4 tables**, connected using SQL joins.
 
